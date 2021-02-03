@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# ***Welcome***
+**I am Israa Ireqat An aeronautical engineer and a web development student at ASAC LTUC**
+![](https://thumbs.dreamstime.com/z/binary-code-icon-vector-sign-symbol-isolated-white-background-your-web-mobile-app-design-logo-concept-133802266.jpg)
 
-You can use the [editor on GitHub](https://github.com/Israa-Ireqat/Read02b/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of contents:
+* My first repo. [Week101](https://israa-ireqat.github.io/week101/)
+* My second repo. [Read02b](https://israa-ireqat.github.io/Read02b/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Israa-Ireqat/Read02b/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I have learned from this exercise to make my own live page and to write a code that contains almost every thing that was mentioned in the campus.
